@@ -1,0 +1,41 @@
+{
+    "metadata": {
+        "id": "1",
+        "userid": 1,
+        "access": 1,
+        "name": "Heap 1 about something",
+        "description": "Some description that can be relevant",
+        "startDate": "2018-01-01",
+        "endDate": "2018-03-01"
+    },
+    "piles": [
+        {
+            "id": "12312515",
+            "date": "2018-01-01",
+            "what": "A simple phrase 1",
+            "where": "W1",
+            "how": "H1"
+        },
+        {
+            "id": "12312515",
+            "date": "2018-06-01",
+            "what": "A simple phrase 1",
+            "where": "W1",
+            "how": "H1"
+        },
+        {
+            "id": "2345645645",
+            "date": "2018-02-01",
+            "what": "A simple phrase 2",
+            "where": "W2",
+            "how": "H2"
+        },
+        {
+            "id": "312312312",
+            "date": "2018-03-01",
+            "what": "A simple phrase 3",
+            "where": "W3",
+            "how": "H3"
+        }
+    ]
+}
